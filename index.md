@@ -1,4 +1,5 @@
 # curriculum vitae
+
 |     | Education |
 | ----------- | ----------- |
 | 2016-2021   | Business Administration       |
