@@ -4,9 +4,7 @@ title:  "My Unexpected Journey into Legal Tech"
 date:   2025-04-14 11:35:53 +0200
 categories: jekyll update
 ---
-## My Unexpected Journey into Legal Tech: 
-From Biotech to (Potentially) Transforming Law
-The legal sector is on the cusp of a significant transformation, with technology poised to reshape how legal services are delivered. My entry into this dynamic field was, in a word, unconventional. I came from the world of biotechnology, and I became a legal tech founder driven by the desire to modernize what has traditionally been a very conservative industry. This is the story of my experiences, the surprises I encountered, and the key lessons I learned along the way.
+
 ## From Biotech to... Legal Tech?!
 My academic and professional background is in biotechnology, a field known for its rapid pace of innovation and its embrace of novel concepts. I've seen firsthand how technology can disrupt established industries, driving greater efficiency, improving outcomes, and generating entirely new possibilities.
 
