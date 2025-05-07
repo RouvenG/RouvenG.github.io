@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "My Unexpected Journey into Legal Tech"
+title:  "The AI Revolution Won't Wait: Why Gradual Adoption Is Doomed to Fail"
 date:   2025-05-07 12:00:00 +0200
 categories: jekyll update
 ---
 
-# How I Think AI Adoption Will Work
+# The AI Revolution Won't Wait: Why Gradual Adoption Is Doomed to Fail
 
 ## The Parallel to E-Commerce Revolutions
 
